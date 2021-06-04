@@ -34,5 +34,16 @@ function shortlyContent(){let data=[{title:`Instant Pot Duo 7-in-1 Electric Pres
 		- Less Power than an Oven<br/>
 		<b>+ Cons</b><br/>
 		- Slow to Cook<br/>
-	`}]
+	`},{title:`Arctic Dreams 10" Hybrid Cooling Gel Mattress`,content:`
+	<h3>Review of the Arctic Dreams 10" hybrid cooling gel mattress.</h3><br/>
+- This is a sensibly valued mattress, however, it turns out extraordinary for the individuals who experience difficulty resting or awakening around evening time.<br/>
+- The Arctic Dreams 10" crossover cooling gel bedding is reasonably delicate to help the dozing individual feel generally great and effectively nod off. With perfection and airiness, it assists you with having a profound and lively night's rest the following morning. This is a mattress that offers a lot of benefits for your health.<br/> 
+<div class="short-img"><img src="https://1.bp.blogspot.com/-kL6DhEBhYhE/YG6h2P2-8mI/AAAAAAAAAFA/Vwv2NAhz11ctw4sKPWqWcGJ2azAdrJUzgCLcBGAsYHQ/w443-h443/81ONvfT9zDL._AC_SL1500_.jpg"/></div>
+		<br/>
+<h3>Description of the Dreams 10" hybrid cooling gel mattress.</h3><br/>
+- Offered in an all-inclusive medium solace level, the Arctic Dreams is built with a .5" super delicate knitted top for rich, breathable solace. The top is intended to oppose body impressions over the long run.<br/> 
+- A protected 2.5" layer of Energex froth overcomes any issues among a latex, joining all the responsiveness of latex with the pressing factor point alleviation of adaptive padding.<br/>
+- A designed layer for better reactivity, pressure point helps, and movement detachment.<br/>
+- Compacted and moved for simple and helpful package transportation and set-up. If it's not too much trouble, permit as long as 24 hours for your sleeping pad to extend and likely scent to disseminate.<br/> `}
+					   ]
 return data;}
