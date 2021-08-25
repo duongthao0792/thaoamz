@@ -37,4 +37,6 @@ See on Amazon: https://amzn.to/3j253P4 <br/>`}
 - Braun Series 9 is fit for shaving near hair and facial hair types in any event when they are of various lengths. Additionally, the well put together as I might want to believe is exceptionally smooth and sensitive. This is exceptionally critical for people with sensitive skin, regardless, for people who are not tricky like me, it helps with giving a pleasing experience while using.<br/>
 On the off chance that you have any inquiries regarding the Braun Series 9, you can leave it in the remarks underneath.<br/>
 See on Amazon: https://amzn.to/3f9FmL6 <br/>`}
+				    ]
+return data;}
 
