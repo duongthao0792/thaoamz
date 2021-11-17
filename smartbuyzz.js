@@ -230,7 +230,6 @@ function getData(){
 			B07QYC1TFB: {href: "https://amzn.to/31QV8H1",nameProduct: `Ohana 7-Piece Outdoor Furniture Review`,image: '',summary: ``,slug: ""},
 			B07RCNHTLS: {href: "https://amzn.to/30tNORe",nameProduct: `Instant Pot Duo Nova 7-in-1 Electric Pressure Cooker`,image: '',summary: ``,slug: ""},
 			B07RHQ5YNZ: {href: "https://amzn.to/3HmP1dM",nameProduct: `Frigidaire 12,000 BTU 115V Window`,image: '',summary: ``,slug: ""},
-			B07L3BWGMG: {href: "",nameProduct: `EuroMini Zizzo CAMPO Folding Bike Review`,image: die,summary: ``,slug: ""},
 			B07RSM91SY: {href: "https://amzn.to/3Dk5XPI",nameProduct: `WoodBridge T 0001 Review2020`,image: '',summary: ``,slug: ""},
 			B07S2348R9: {href: "https://amzn.to/3qBzoJJ",nameProduct: `SUPER DEAL 2IN1 Mini Compact Twin Tub Washing Machine`,image: '',summary: ``,slug: ""},
 			B07S39CW8Q: {href: "https://amzn.to/30oDHgT",nameProduct: `Giantex Full Automatic Washing Machine Portable`,image: '',summary: ``,slug: ""},
