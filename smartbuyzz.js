@@ -303,3 +303,4 @@ function getData(){
 		}
 	}
 	return dataAMZ;
+}
