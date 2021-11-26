@@ -296,8 +296,10 @@ function getData(){
 			B07K3PNJJS: {href: "https://amzn.to/3Hq8wCv",nameProduct: `Schwinn Elm Kids Bike`,image: '',summary: ``,slug: ""},
 			B00E95K6LU: {href: "https://amzn.to/3DjEb66",nameProduct: `Schwinn Toddler Balance Bike`,image: '',summary: ``,slug: ""},
 			B07PFYWP3G: {href: "https://amzn.to/3qFeauA",nameProduct: `Blissful Nights z4 Adjustable Bed Frame`,image: '',summary: ``,slug: ""},
-			B07F3DNDL4: {href: "https://amzn.to/3nhNTQN",nameProduct: `Intex 10ft X 30in Prism Frame Pool Set`,image: '',summary: ``,slug: ""}
+			B07F3DNDL4: {href: "https://amzn.to/3nhNTQN",nameProduct: `Intex 10ft X 30in Prism Frame Pool Set`,image: '',summary: ``,slug: ""},
+			B01N4I8FOY: {href: "https://amzn.to/3r2GLdq",nameProduct: `Fitness Reality Squat Rack Power Cage`,image: '',summary: ``,slug: ""},
+			B08B61YJW4: {href: "https://amzn.to/2ZgU9is",nameProduct: `iRest 2021 Massage Chair`,image: '',summary: ``,slug: ""},
+			B086DG8CN1: {href: "https://amzn.to/2ZpvUi9",nameProduct: `Valuxhome Electric Fireplace`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
-}
