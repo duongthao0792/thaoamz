@@ -1,12 +1,1 @@
-function getData(){
-	const keysw = "www.smartsproduct.com";
-	var keyAPI = (typeof keyhost != 'undefined') ? keyhost : document.location.host;
-	var dataAMZ = {};
-	if(keysw == keyAPI){
-		dataAMZ = {
-			B000058TJ3: {href: "google.com",nameProduct: `Intex Swim Center Family Inflatable Pool`,image: '',summary: ``,slug: ""},
-			B00005RHPD: {href: "https://fb.com/3okM3ix",nameProduct: `Bosch 1617EVSPK Wood Router Tool Combo Kit`,image: '',summary: ``,slug: ""},
-		}
-	}
-	return dataAMZ;
-}
+class Smartsproduct{constructor(){this.tagws = "thaoca-20";this.local = "us";this.keyws = "www.smartsproduct.com";this.localws = "https://www.amazon.com/";}getData(keyhost=''){const keysw = "www.smartsproduct.com";var keyAPI = (typeof keyhost != 'undefined' && keyhost != '') ? keyhost : document.location.host;var dataAMZ = {};if(keysw == keyAPI){dataAMZ = {B00MYWQL96: {href: "https://google.com",nameProduct: `Hessaire MC37M portable Evaporative Air Cooler for 750 sq. ft.`,slug: "",summary: ``,image: ''}}}return dataAMZ;}}
