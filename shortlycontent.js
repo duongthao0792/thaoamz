@@ -9,7 +9,7 @@ function shortlyContent(){let data=[{title:`Schwinn Rascal Bike Pet Trailer`,con
 - The Schwinn Rascal Pet Trailer accompanies an inside rope connection framework that will oblige your pet so they can't leap out of the cover or move unpredictably during a walk. Regardless of the trailer, there's sufficient security to hold your pets, as long as they don't surpass as far as possible.<br/>
 - The materials used to make the Schwinn Rascal Pet Trailer are both tough and very much constructed, and will not destroy without any problem. This gives you genuine feelings of serenity realizing that your pet will be protected.<br/>
 - Mechanisms on wheels ingest street shock to guarantee a smoother ride for your pet on the lopsided territory.<br/>
-* See on Amazon: https://amzn.to/3j0iC1r <br/>`}
+ <br/>`}
 ,{title:`Sun Joe MJ401E-PRO Electric Lawn Mower`,content:`
 - Do you have a little nursery at home and you experience difficulty cutting the grass consistently? In this article, I will acquaint with you the Sun Joe MJ401E-PRO Electric Lawn Mower. It will make it simpler and more charming for you to trim your grass and make it your interest. Regardless of its little size and lightweight, its yard cutting proficiency is phenomenal. This machine will help your nursery clean and introduce rapidly, despite the fact that there are a few admonitions with this grass cutter.<br/>
 <h3>Overview</h3><br/>
@@ -22,7 +22,7 @@ function shortlyContent(){let data=[{title:`Schwinn Rascal Bike Pet Trailer`,con
 - The Sun Joe MJ401E-PRO Electric Lawn Mower functions admirably, as long as it is utilized in the right climate; it's comfortable with a little yard. With its conservative plan, it functions admirably in restricted spaces. Its cutting deck is 14 inches, utilizes a steel sharp edge, and its engine slices effectively through various lengths of grass both wet and dry. <br/>
 - Lightweight makes the yard trimmer simple to move around any snag in the nursery and makes piloting a breeze. Additionally, on the off chance that you need to lift the cutter for reasons unknown that will not be an issue. Additionally, this yard cutter doesn't make a lot of commotion that causes you and individuals around you to feel awkward.<br/>
 * In the event that you have any inquiries with respect to the Sun Joe MJ401E-PRO Electric Lawn Mower, leave your inquiries in the remarks segment underneath.<br/>
-See on Amazon: https://amzn.to/3j253P4 <br/>`}
+ <br/>`}
 ,{title:`Braun Series 9 Electric Shaver`,content:`
 - I'm certain each man claims a shaver. Many of my friends are not happy with the shaver they are utilizing because the shaving speed is slow or the shave isn't close. There are various sorts of shavers, yet in this article, I will just assess the best shaver accessible today, the Braun Series 9 and I am additionally utilizing it. I utilize the shaver to shave, yet I frequently use it to shave the hair on my head, so I am vital to its highlights. In this article, I will race out my assessment after utilizing and the highlights of this shaver.<br/>
 <h3>My experience</h3><br/>
@@ -36,7 +36,7 @@ See on Amazon: https://amzn.to/3j253P4 <br/>`}
 - The calculated shaving head's shifting component is very acceptable, as I said I don't have to change the point of the hand when shaving, the shaving head will consequently shift to coordinate with the situation to be shaved.<br/>
 - Braun Series 9 is fit for shaving near hair and facial hair types in any event when they are of various lengths. Additionally, the well put together as I might want to believe is exceptionally smooth and sensitive. This is exceptionally critical for people with sensitive skin, regardless, for people who are not tricky like me, it helps with giving a pleasing experience while using.<br/>
 On the off chance that you have any inquiries regarding the Braun Series 9, you can leave it in the remarks underneath.<br/>
-See on Amazon: https://amzn.to/3f9FmL6 <br/>`}
+ <br/>`}
 ]
 return data;}
 
